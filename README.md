@@ -14,7 +14,7 @@ Above all of those little projects, the one I'm most proud of is [Montaigne ensa
 
 Another animal that I like are penguins. Unrelated to that, my beloved operational system is:
 
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
+![BigLinux](https://img.shields.io/badge/-BigLinux-%230079C1?style=for-the-badge&)
 
 And the best programming languege is (for me at least):
 
